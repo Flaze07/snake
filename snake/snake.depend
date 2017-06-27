@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1498562781 source:d:\programming\console program\c++\snake\includes\vector.cpp
+	"vector.hpp"
+
+1498562713 d:\programming\console program\c++\snake\includes\vector.hpp
+
+1498574904 source:d:\programming\console program\c++\snake\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<functional>
+	"includes/snake.hpp"
+
+1498574977 d:\programming\console program\c++\snake\includes\snake.hpp
+	<vector>
+	<string>
+	<ctime>
+	<memory>
+	"vector.hpp"
+
